@@ -1,9 +1,7 @@
-import ApplicationTopBar from './components/AppBar/AppBar';
-
 function App() {
   return (
     <div className="App">
-      <ApplicationTopBar />
+      <h1 className="text-3xl font-bold underline">Hello world!</h1>
     </div>
   );
 }
